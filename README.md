@@ -3,6 +3,19 @@ Program to plot a Skew-T diagram and data, written in Visual Basic 6
 
 By Cody Kirkpatrick
 
+## What you get here
+
+- The VB6 files needed to compile and run the program yourself (I 
+have not provided an EXE file)
+
+- Example Skew-T files which are in a format provided by the InterMet 
+radiosonde software.  Those are formats I've written the code for, but
+you can adjust the LineInput lines in PlotData for different formats
+if you want.  (SharpPy would be next, for me.)
+
+- Very little else. Expectation is that you're comfortable with VB
+source files from that era.
+
 ## Development machines
 
 Developed using Visual Studio 6 on:
